@@ -4,7 +4,7 @@ AI Career Coach is a personalized career guidance platform that helps users navi
 
 ## 🔗 Live Demo
 
-👉 [Visit the live app](https://ai-career-coach-lilac.vercel.app/)  
+👉 [Visit the live app](https://ai-career-coach-blond-one.vercel.app/)  
 
 ## 🚀 Features
 
